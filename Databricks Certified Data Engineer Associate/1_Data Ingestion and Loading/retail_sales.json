@@ -1,0 +1,10 @@
+[
+  {"order_id":4120,"zip_code":92138,"order_timestamp":"2026-02-01","quantity":5,"total":125.50},
+  {"order_id":4124,"zip_code":10001,"order_timestamp":"2026-02-02","quantity":4,"total":89.99},
+  {"order_id":4125,"zip_code":94105,"order_timestamp":"2026-02-03","quantity":3,"total":0},
+  {"order_id":4126,"zip_code":60601,"order_timestamp":"2026-02-04","quantity":5,"total":210.75},
+  {"order_id":4127,"zip_code":30301,"order_timestamp":"2026-02-05","quantity":2,"total":150.00},
+  {"order_id":4128,"zip_code":75201,"order_timestamp":"2026-02-06","quantity":1,"total":0},
+  {"order_id":4129,"zip_code":33101,"order_timestamp":"2026-02-07","quantity":5,"total":999.99},
+  {"order_id":4130,"zip_code":85001,"order_timestamp":"2026-02-08","quantity":4,"total":75.25}
+]
